@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Creator Kit - FPS/Scenes/TheActualBetterGame.unity
+    guid: 50649595b97f0f548b557f517e3cb953
   m_configObjects: {}
